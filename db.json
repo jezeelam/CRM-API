@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jezeel Acosta",
+      "empresa": "Freelance",
+      "email": "correo@correo.com",
+      "telefono": "86093373",
+      "notas": "Nuevo Cliente",
+      "id": 1
+    }
+  ]
+}
